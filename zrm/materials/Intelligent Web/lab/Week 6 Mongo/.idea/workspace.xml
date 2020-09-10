@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f909757-e9f8-4483-93c9-fe03145a5744" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1Z4HaziTCERaU19h8xdwTSQBtcv" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.3.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../webrtc-web" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="copyright.filetypes.HTML" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/javascripts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f909757-e9f8-4483-93c9-fe03145a5744" name="Default" comment="" />
+      <created>1521641228440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521641228440</updated>
+      <workItem from="1521641237919" duration="13377000" />
+      <workItem from="1521674986109" duration="560000" />
+      <workItem from="1524149183034" duration="548000" />
+      <workItem from="1524231917983" duration="1189000" />
+      <workItem from="1524730112648" duration="586000" />
+      <workItem from="1524842484733" duration="595000" />
+      <workItem from="1525114193624" duration="10000" />
+      <workItem from="1584091515723" duration="2199000" />
+      <workItem from="1585009939554" duration="4233000" />
+      <workItem from="1585258920933" duration="1217000" />
+      <workItem from="1585620329285" duration="713000" />
+      <workItem from="1587499834609" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1585064046824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585064046824" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585081966484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1504" height="240" key="GridCell.Tab.0.bottom/-1920.23.1920.1007/0.23.1680.1027@-1920.23.1920.1007" timestamp="1584092045118" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585081966484" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584095859192" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585081966483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1504" height="240" key="GridCell.Tab.0.center/-1920.23.1920.1007/0.23.1680.1027@-1920.23.1920.1007" timestamp="1584092045118" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585081966483" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1584095859191" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585081966483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1504" height="240" key="GridCell.Tab.0.left/-1920.23.1920.1007/0.23.1680.1027@-1920.23.1920.1007" timestamp="1584092045117" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585081966483" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1584095859191" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585081966484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1504" height="240" key="GridCell.Tab.0.right/-1920.23.1920.1007/0.23.1680.1027@-1920.23.1920.1007" timestamp="1584092045118" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585081966484" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1584095859192" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587499833900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587499833900" />
+    <state x="376" y="198" width="688" height="486" key="find.popup" timestamp="1584095764667">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="376" y="198" width="688" height="486" key="find.popup/0.23.1440.837@0.23.1440.837" timestamp="1584095764667" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>fabios</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
